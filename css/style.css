@@ -3211,16 +3211,23 @@ h6 {
   /* Home Banner Area css
   ============================================================================================ */
   .home_banner_area .banner_inner .banner_content {
-    padding: 30px 15px;
+    /* padding: 30px 15px; */
+    text-align: center;
     margin-top: 0px; }
 
   .home_banner_area .banner_inner .banner_content h3 {
-    font-size: 24px; }
+  
+    font-size: 24px; 
+  }
+    /* kalai */
+  .home_banner_area .banner_inner .banner_content h5 {
+    font-size: 15px; }
 
   /* End Home Banner Area css
   ============================================================================================ */
   .banner_area .banner_inner .banner_content h2 {
     font-size: 32px; }
+    
 
   /* Blog Page Area css
   ============================================================================================ */
