@@ -4,7 +4,7 @@
 				<div class="row">
 					<div class="col-lg-7">
 						<div class="banner_content">
-							<h3 class="text-uppercase">Hello,</h3>
+<!-- 							<h3 class="text-uppercase">Hello,</h3> -->
 							<h2 class="text-uppercase kalai">Kalaiyarasan M</h2>
 							<h5 class="kalai2 text-uppercase">Offencive and Defensive Programmer</h5>
 							<div class="d-flex align-items-center">
